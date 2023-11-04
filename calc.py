@@ -2,7 +2,7 @@
 This is a simple implementation for a calculator
 """
 A = 9
-B = 4
+B = 10
 OP = '+'
 if OP.strip() == '+':
     print(A+B)
