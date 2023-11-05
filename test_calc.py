@@ -60,7 +60,7 @@ class CalculatorTest(unittest.TestCase):
         """
         Test addition method.
         """
-        self.assertEqual(11, self.calc.add(3, 7), "The addition is wrong")
+        self.assertEqual(10, self.calc.add(3, 7), "The addition is wrong")
 
     def test_subtract(self):
         """
